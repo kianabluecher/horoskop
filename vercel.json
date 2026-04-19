@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/apa-full-ai-graphs-working.html"
+    }
+  ]
+}
